@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _13_09
+{
+   public class dog
+    {
+    privat string_name;
+    privat int_age;
+    public D
+    public string GetName()
+    {
+    return_age;
+    }
+    }
+}
